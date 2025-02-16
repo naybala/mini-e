@@ -1,7 +1,7 @@
 [
     {
       "id": 1,
-      "title": "Nay Ba La",
+      "title": "Nay Ba La KL",
       "price": 109.95,
       "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
       "category": "men clothing",
@@ -12,12 +12,28 @@
       "title": "Aung Pyae Oo ",
       "price": 22.3,
       "description": "Slim-fitting style, contrast raglan long sleeve, three-button henley placket...",
-      "category": "men clothing",
+      "category": "Women clothing",
       "image": "https://fakestoreapi.com/img/71-3HjGNDUL._AC_SY879._SX._UX._SY._UY_.jpg"
     },
     {
       "id": 3,
       "title": "Emi Fu Ka Da",
+      "price": 55.99,
+      "description": "Great outerwear jackets for Spring/Autumn/Winter...",
+      "category": "men clothing",
+      "image": "https://fakestoreapi.com/img/71li-ujtlUL._AC_UX679_.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Aung Pyae Oo 1",
+      "price": 22.3,
+      "description": "Slim-fitting style, contrast raglan long sleeve, three-button henley placket...",
+      "category": "Women clothing",
+      "image": "https://fakestoreapi.com/img/71-3HjGNDUL._AC_SY879._SX._UX._SY._UY_.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Emi Fu Ka Da 1",
       "price": 55.99,
       "description": "Great outerwear jackets for Spring/Autumn/Winter...",
       "category": "men clothing",
