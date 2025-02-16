@@ -42,3 +42,4 @@ function renderProducts(data) {
     productListContainer.appendChild(productCard);
   }
 }
+let num=1;
